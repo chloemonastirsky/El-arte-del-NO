@@ -9,7 +9,7 @@ body {
 	color: #ecebff;
 	background:
 		radial-gradient(circle at 10% 15%, #2c205e 0, transparent 32%),
-		radial-gradient(circle at 85% 20%, #1e2f66 0, transparent 28%),
+		radial-gradient(circle at 85% 20%, #65661e 0, transparent 28%),
 		linear-gradient(140deg, #090b1d 0%, #111733 40%, #0b1024 100%);
 	background-size: 150% 150%, 150% 150%, 180% 180%;
 	animation: auroraFlow 22s ease-in-out infinite;
@@ -83,8 +83,8 @@ h1 {
 
 .subtitle {
 	margin: 0;
-	color: #b8bde6;
-	font-size: 1rem;
+	color: #e6b8dc;
+	font-size: 7rem;
 }
 
 .card {
